@@ -1,0 +1,12 @@
+# image
+*.jpg
+*.png
+*.svg
+
+# slides
+*.ppt
+*.pptx
+*.key
+
+# pdf
+*.pdf
