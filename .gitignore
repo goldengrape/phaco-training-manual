@@ -4,9 +4,17 @@
 *.svg
 
 # slides
-*.ppt
-*.pptx
-*.key
+# *.ppt
+# *.pptx
+# *.key
 
 # pdf
 *.pdf
+
+# video
+*.m4v
+*.mp4
+
+# 已经配音
+./幻灯/配音视频
+./幻灯/已经配音幻灯
